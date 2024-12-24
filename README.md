@@ -6,7 +6,10 @@ How the App Works Input: Users upload their resumes in PDF, Word, or Text format
 Technologies and Tools Used Programming Languages: Python Machine Learning Algorithm: K-Nearest Neighbors (KNN) Libraries and Frameworks: Data Handling: Pandas, NumPy Natural Language Processing (NLP): Scikit-learn (for text vectorization and implementing the KNN algorithm) Data Source: Pre-collected dataset from Kaggle
 
 demo:https://nagasaidhanya-resume-screening-app-app-pn39eb.streamlit.app/
+
 ![image](https://github.com/user-attachments/assets/13048206-a903-4b5f-9205-bc9e1b8d1b33)
+
 ![image](https://github.com/user-attachments/assets/76fdd637-0471-4309-afff-e5c55399be13)
+
 Algorithm Used:
 Support Vector Machine (SVM) is utilized to classify resumes based on hyperplanes that separate feature vectors into categories.The model is trained on a labeled dataset containing resumes and their respective categories. The SVM algorithm identifies the optimal hyperplane that best separates the data into classes.The model's performance is evaluated using accuracy,1.0 (100%)
